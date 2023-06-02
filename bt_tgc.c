@@ -13,7 +13,6 @@ int main() {
          printf("* ");
 
       //printf("\n");
-      printf("Hello git!");
    }
    return 1;
 }
