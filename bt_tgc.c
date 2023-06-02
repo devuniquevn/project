@@ -12,7 +12,8 @@ int main() {
       for(j = 1; j <= i; j++)
          printf("* ");
 
-      printf("\n");
+      //printf("\n");
+      printf("Hello git!");
    }
    return 1;
 }
